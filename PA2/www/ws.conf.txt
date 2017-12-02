@@ -1,0 +1,23 @@
+#service port number
+8887
+
+#document root
+/home/user/Documents/NetworkSystems/PA2/www
+
+#default web page
+index.html
+
+#Content-Type
+.html text/html
+.htm text/html
+.txt text/plain
+.gif image/gif
+.jpg image/jpeg
+.jpeg image/jpeg
+.png image/png
+.css text/css
+
+#connection timeout
+10
+
+

@@ -1,0 +1,21 @@
+#include <sys/select.h>
+_FD_SET
+_FD_ZERO
+_SELELCT
+
+EINTR error
+
+isalnum
+
+strchr
+
+calloc()
+
+
+toupper()
+
+strtol()
+
+sprintf()
+
+
